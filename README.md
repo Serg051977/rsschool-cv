@@ -6,5 +6,6 @@
 6.[Dynamic-Landing-Page](https://serg051977.github.io/Dynamic-Landing-Page/index.html);  
 7.[Drum-Kit](https://serg051977.github.io/Drum-Kit/index.html);  
 8.[CSS-Variables-and-JS](https://serg051977.github.io/CSS-Variables-and-JS/index.html);  
-9.[Flex-Panel-Gallery](https://serg051977.github.io/Flex-Panel-Gallery/index.html);
+9.[Flex-Panel-Gallery](https://serg051977.github.io/Flex-Panel-Gallery/index.html);  
+10.[Fun-with-HTML5-Canvas](https://serg051977.github.io/Fun-with-HTML5-Canvas/index.html)
  
