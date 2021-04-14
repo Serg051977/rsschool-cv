@@ -9,5 +9,6 @@
 9.[Flex-Panel-Gallery](https://serg051977.github.io/Flex-Panel-Gallery/index.html);  
 10.[Fun-with-HTML5-Canvas](https://serg051977.github.io/Fun-with-HTML5-Canvas/index.html)  
 11.[Custom-Video-Player](https://serg051977.github.io/Custom-Video-Player/index.html)  
-12.[Video-Speed-Controller](https://serg051977.github.io/Video-Speed-Controller/index.html)
+12.[Video-Speed-Controller](https://serg051977.github.io/Video-Speed-Controller/index.html)  
+13.[Whack-A-Mole](https://serg051977.github.io/Whack-A-Mole/index.html)
  
